@@ -1,3 +1,3 @@
-- ### Nama  =**Iqbal Rifai**
+- ### Nama  = **Iqbal Rifai**
 
-- ### Nim   =**L0325004**
+- ### Nim   = **L0325004**
